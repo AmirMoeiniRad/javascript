@@ -1,8 +1,3 @@
-// Alright so we've discussed the way you can grab html elements, let's
-// see how we can interact with them in Javascript!
-
-// Type this into your console:
-
 // Grab the Header with h1
 var header = document.querySelector("h1")
 
